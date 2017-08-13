@@ -1,0 +1,20 @@
+yang ada di user :
+
+-> ada 2 aktor
+1. petani
+user ini bisa generate qrcode buat nge trace hasil pertanian
+
+2. pengepul/pemroses
+nambahin qrcode dari petani untuk dijadikan qrcode baru
+kalo campuran-> data petani disatuin
+
+3. penyimpanan/distribusi
+nambahin qrcode dari pengepul untuk dijadikan qrcode baru
+kalo campuran-> data petani disatuin.
+dibagi 2 qrcode yang dihasilkan -> yang umum sama yang detail
+
+4. pembeli
+cuman bisa liha informasi umum.
+
+5. admin
+baca data semuanya.

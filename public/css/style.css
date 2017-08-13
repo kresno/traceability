@@ -1,0 +1,52 @@
+.logo {
+  padding: 15px 0;
+  font-size: 25px;
+  color: #aaaaaa;
+  font-weight: bold;
+}
+
+.back_login{
+	padding-top: 50px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
+    padding-bottom: 50px;
+    text-align: center;
+    color: #f8f8f8;
+    background: url(../images/intro.jpg) no-repeat center center;
+    background-size: cover;
+}
+
+.box_login{
+	padding: 50px;
+	text-align: center;
+	color: #fff;	
+}
+
+
+.navbar-default{
+  background-color: #1C7AD8;
+  border-color: #1C7AD8;
+}
+
+.navbar-default .navbar-brand {
+    color: #fff;
+}
+
+.navbar-brand:hover, .navbar-default .navbar-brand > a:hover {
+    color:#FFFFFF;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: #000;
+}
+
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+  color: #fff;
+  background-color: #1d6392;
+}
+
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+  color: #fff;
+  background-color: #1d6392;
+}
